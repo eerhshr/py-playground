@@ -21,8 +21,8 @@ activity_list = [
     'Sip and paint',
     'Calligraphy',
     'Try Candle Making',
-    'Learn a unique origami',
-    'Learn to make a jam/pickle',
+    'Learn an unique origami',
+    'Learn to make jam or pickle',
     'Read a book',
     'Learn basics for personal finance',
     'Digital Declutter',
@@ -36,7 +36,6 @@ activity_list = [
     'Organize your closet',
     'Try a new recipie',
     'Play arcade games',
-    'Listen to music in your patio/terrace',
 ]
 
 

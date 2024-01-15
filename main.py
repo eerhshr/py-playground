@@ -16,7 +16,7 @@ rootWindow.minsize(400, 200)
 button = tk.Button(text="Generate a fun activity", command=show_activity)
 button.pack()
 
-message_label = tk.Label(rootWindow, text="", fg="yellow")
+message_label = tk.Label(rootWindow, text="")
 message_label.pack()
 
 rootWindow.mainloop()
