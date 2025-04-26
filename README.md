@@ -1,4 +1,4 @@
-# Python Projects — Learn, Play, and Build
+# PyPlayground — Learn, Play, and Build
 
 This repository contains a collection of small Python projects designed for learning, fun, and utility. 
 
