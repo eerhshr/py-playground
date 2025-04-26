@@ -1,6 +1,6 @@
 # Python Projects 
 
-This repository contains a collection of small Python projects designed for **learning, fun, and utility**.
+This repository contains a collection of small Python projects designed for learning, fun, and utility.
 
 ## Projects Included
 
