@@ -4,13 +4,13 @@ This repository contains a collection of small Python projects designed for lear
 
 ## Projects Included
 
-### 1. Fun Activity Generator 🎭  
+### 1. Fun Activity Generator
 A program that suggests random fun activities for when you're bored.
 
-### 2. Rock-Paper-Scissors Game ✊📄✂️  
+### 2. Rock-Paper-Scissors Game
 A simple Rock-Paper-Scissors game to play against the computer.
 
-### 3. QR Code Generator 📱🔳  
+### 3. QR Code Generator 
 Generates QR codes from text or URLs.
 
 
